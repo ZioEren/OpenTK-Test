@@ -1,0 +1,20 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\bin\Debug\OpenTK Learning.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\bin\Debug\OpenTK Learning.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\bin\Debug\OpenTK Learning.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\bin\Debug\OpenTK Learning.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\obj\Debug\OpenTK_Learning.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\obj\Debug\OpenTK Learning.vbproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\obj\Debug\OpenTK Learning.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\obj\Debug\OpenTK Learning.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\obj\Debug\OpenTK Learning.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\bin\Debug\OpenTK.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\bin\Debug\OpenTK.GLControl.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\bin\Debug\OpenTK.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\bin\Debug\OpenTK.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\bin\Debug\OpenTK.GLControl.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\obj\Debug\OpenTK Learning.vbprojAssemblyReference.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\obj\Debug\OpenTK Learning.vbproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\bin\Debug\SharpDX.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\bin\Debug\SharpDX.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenTK Learning\OpenTK Learning\obj\Debug\OpenTK Learning.vbproj.CoreCompileInputs.cache
